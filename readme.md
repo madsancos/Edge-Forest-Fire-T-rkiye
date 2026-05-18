@@ -118,16 +118,7 @@ streamlit run app.py
 ```
 ---
 
-<br>
+### 🚀 Hazırlayan
 
-<table align="center" style="border: none; border-collapse: collapse;">
-  <tr>
-    <td align="center" style="border: none; padding: 20px;">
-      <p align="center"><b>Hazırlayan</b></p>
-      <h2 align="center" style="color: #2a98a4; margin-top: 5px;">📐 Serdar ÖNAL</h2>
-      <p align="center" style="margin-bottom: 2px;"><b>Kıdemli İnşaat Mühendisi & Yapay Zeka Araştırmacısı</b></p>
-      <p align="center" style="color: #4A778D; font-style: italic; font-size: 0.9em;">"Veri ile İnşa Edilen Sürdürülebilir ve Güvenli Bir Gelecek İçin..."</p>
-      <p align="center" style="font-size: 0.8em; color: #888888; margin-top: 15px;">© 2026 | Edge-AI-16 Altyapı ve Yapay Zeka Projesi</p>
-    </td>
-  </tr>
-</table>
+## 📐 Serdar ÖNAL
+**Kıdemli İnşaat Mühendisi & Yapay Zeka Araştırmacısı** *“Veri ile İnşa Edilen Sürdürülebilir ve Güvenli Bir Gelecek İçin...”* 
